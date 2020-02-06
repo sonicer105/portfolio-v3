@@ -1,0 +1,13 @@
+{
+    "name": "sonicer105/portfolio",
+    "description": "Portfolio for Elias Turner",
+    "type": "project",
+    "require": {},
+    "license": "UNLICENSED",
+    "authors": [
+        {
+            "name": "LinuxPony",
+            "email": "sonic.ert@gmail.com"
+        }
+    ]
+}
